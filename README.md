@@ -1,2 +1,6 @@
-# Corso_Microbit
-Un corso su BBC micro:bit che ho tenuto ai docenti di primaria e secondaria nel 2020
+# Microbit_Tinkering
+Repository per il materiale del corso CORO 2020 "Corso Robotica educativa: Tinkering e elettronica educativa"
+
+
+
+MAIL del docente: simone.conradi@itiscuneo.eu.
